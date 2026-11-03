@@ -148,6 +148,7 @@ Video is shown in resized resolution (640 × 480)
 
 ### iv) Rotate and display the video
 Video is displayed after rotation (90° clockwise)
+
 <img width="603" height="837" alt="Screenshot 2026-11-03 092333" src="https://github.com/user-attachments/assets/c1776180-f9db-4997-b9db-7271352c2626" />
 
 
